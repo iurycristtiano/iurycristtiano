@@ -6,7 +6,8 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 Você pode entrar em contato comigo 📫
--------------
+alurastartestudante@email.com
 
-@-------------
-![](https://tenor.com/pt-BR/view/kanye-west-stare-serious-gif-15710427)
+@alurastartestudante
+
+![kanye west goat](https://media1.tenor.com/m/afqg5H7O4eQAAAAd/kanye-west-stare.gif)
